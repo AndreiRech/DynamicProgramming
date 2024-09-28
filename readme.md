@@ -21,8 +21,9 @@ Para podermos utilizar o projeto, primeiro compile o programa em sua máquina.
 ```
 
 Após isso, você pode informar os números desejados, sendo que os mesmos devem ser **obrigatóriamente**: 
-    - *iniciar e terminar* com o caracter *m*
-    - *binários* [01] 
+- *Iniciar e terminar* com o caracter *m*
+- *Binários* [01] 
+    
 Siga o exemplo abaixo.
 
 ```bash
@@ -38,9 +39,9 @@ O resultado esperado deve aparecer no terminal logo abaixo de seu input.
 ```
 
 Sendo os mesmos o resultado provenientes de:
-    - Método recursivo convencional
-    - Método recursivo utilizando vetores
-    - Método sem recursão
+- Método recursivo convencional
+- Método recursivo utilizando vetores
+- Método sem recursão
 
 ### PONTO A SER CONSIDERADO NA EXECUÇÃO
 
